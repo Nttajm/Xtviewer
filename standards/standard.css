@@ -1,0 +1,44 @@
+body { 
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+p, a {
+  font-family: 'roboto', arial;
+  color: black;
+  text-decoration: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+strong { 
+  font-weight: 600;
+  color: rgb(10, 94, 90);
+}
+
+button {
+  color: #ffffff;
+  border-style: none;
+  border: solid;
+  border-width: 1.1px;
+}
+
+body { 
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.img-1{
+  display: inline;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.pfp {
+  width: 20px;
+  border-radius: 10px;
+}
